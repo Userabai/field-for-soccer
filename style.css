@@ -1,0 +1,17 @@
+
+
+         body {
+
+             text-align:center;
+             font-size: 13px;
+
+            }
+
+
+         canvas {
+
+             background-color: black;
+             width:1260px;
+             height:860px;
+
+         }
